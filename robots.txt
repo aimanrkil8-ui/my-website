@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aimanrkil8-ui.github.io/my-website/sitemap.xml
